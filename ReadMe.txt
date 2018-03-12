@@ -2,12 +2,11 @@ Project instructions
 Peer-graded Assignment:
 Course Project: Shiny Application and Reproducible Pitch
 
-Model fitting with polynomials
--Random cubic data was generated
--Noise was added to the y variable
--The data is then fit with a model, where the order of the polynomial (poly_ord) is user selectable.
+This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers.
+Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
-Model Evaluation
-- Summary of model given in table.
-- R Squared valued displayed.
-- User can imput a value and a predicted value is returned.
+The Shiny App can be found at:
+https://p0rter2000.shinyapps.io/CourseProjectShinyApp/
+
+The presentation, which provides guidance for using the app can be found at:
+http://rpubs.com/p0rter2000/369135
